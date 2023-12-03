@@ -1,4 +1,4 @@
-Dice roller app
+Practice Dice roller app
 =======================================
 
 Solution code for the Android Basics with Compose: Create an interactive dice roller app.
